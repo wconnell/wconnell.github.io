@@ -50,6 +50,7 @@ blockchain_helper.estimate_query_size(query)
 # assign query to dataframe
 q1_df = blockchain_helper.query_to_pandas(query)
 ```
+
 This graph is a visualization of the volume of blocks created each day since the inception of Bitcoin.
 
 ![](../images/blockchain_figs/blocks_day.png)
@@ -83,6 +84,9 @@ query = """
 ```
 
 ![](../images/blockchain_figs/wallet-table.png)
+
+
+
 
 
 
