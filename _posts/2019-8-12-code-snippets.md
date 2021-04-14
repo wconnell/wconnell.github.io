@@ -8,6 +8,8 @@ This post demonstrate the use of code snippets in the theme. The code snippets a
 
 This is a raw snippet:
 
+test
+
 ```
 hello world
 123
