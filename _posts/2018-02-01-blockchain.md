@@ -64,6 +64,7 @@ Interestingly there is a spike in block creation volume around mid-2010. I did a
 
 The huge number of blocks created reflects new user influx into the budding technology, and the new demand resulted in a 10x value increase.
 
+
 ### Transaction Network
 A point of interest in this unregulated space is the influence that "whales" (holders of relatively large amounts of currency) have on price fluctuation. Hedge funds, early adopters, governments and businesses (illicit or honest) holding large amounts of Bitcoin can sway value by temporally injecting or withdrawing funds into the market, thereby influencing currency momentum. I looked at the transaction networks of some of these big players to better understand financial behavior in this unregulated space.
 
@@ -82,6 +83,8 @@ query = """
 ```
 
 ![](../images/blockchain_figs/wallet-table.png)
+
+
 
 Investigating futher, I pulled down all of the data that the wallet with the highest transaction volume was involved in.
 
@@ -155,7 +158,7 @@ To investigate a more complex network, I queried the transactions data of the to
 
 ![](../images/blockchain_figs/exchange_net.png)
 
-A few things come to mind from this visualization, mainly that there are a few nodes which harbor a majority of the transaction flow. The relative "importance"" of vertices in this graph can be computed with different centrality metrics. **Degree centrality** defines "the number of links incident upon a node." Indegree (incoming ties) and outdegree (outgoing ties) cetrality help to more specifically define directed networks. **Betweenness centrality** "quantifies the number of times a node acts as a bridge along the shortest path between two other nodes."
+A few things come to mind from this visualization, mainly that there are a few nodes which harbor a majority of the transaction flow. The relative "importance"" of vertices in this graph can be computed with different centrality metrics. **Degree centrality** defines "the number of links incident upon a node." Indegree (incoming ties) and outdegree (outgoing ties) centrality help to more specifically define directed networks. **Betweenness centrality** "quantifies the number of times a node acts as a bridge along the shortest path between two other nodes."
 
 ![](../images/blockchain_figs/centrality_heatmap.png)
 
