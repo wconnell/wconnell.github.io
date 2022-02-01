@@ -14,7 +14,7 @@ Through GWAS, we identified a novel SNP that is potentially associated with resp
         <div class='altmetric-embed' data-link-target='https://www.frontiersin.org/articles/10.3389/fimmu.2021.815121/full' data-badge-type='donut' data-doi='10.3389/fimmu.2021.815121'>
         </div>
     </div>
-    <img src="https://www.frontiersin.org/files/Articles/815121/fimmu-12-815121-HTML-r1/image_m/fimmu-12-815121-g001.jpg">
+    <img src="../images/research_figs/ustekinumab_fig.jpg">
 </div>
 
 <!-- <div class="center-cropped" 
