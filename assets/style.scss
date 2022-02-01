@@ -5,11 +5,20 @@
 /* CUSTOM */
 /**************/
 
+.center-cropped {
+  width: 100%;
+  height: 100px;
+  background-position: center center;
+  background-repeat: no-repeat;
+  position: relative;
+}
+
 .am-container {
   width: 100%;
-  height: 200px;
+  height: 100px;
   position:relative;
 }
+
 .am-tag {
   float: left;
   position: absolute;
