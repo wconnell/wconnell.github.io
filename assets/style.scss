@@ -6,7 +6,9 @@
 /**************/
 
 .am-container {
-  width: 400px;
+  max-width:100%;
+  max-height:100%;
+  width: 740px;
   height: 300px;
   position:relative;
 }
