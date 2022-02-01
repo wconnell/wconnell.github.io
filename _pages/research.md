@@ -9,8 +9,8 @@ permalink: /research/
 2022 &#124; *Frontiers in Immunology* &#124; **Connell W.T.**, Hong J., Liao W.
 
 Through GWAS, we identified a novel SNP that is potentially associated with response to ustekinumab in psoriasis.
-<div class="container">
-       <div class="tag">
+<div class="am-container">
+       <div class="am-tag">
         <div class='altmetric-embed' data-link-target='https://www.frontiersin.org/articles/10.3389/fimmu.2021.815121/full' data-badge-type='donut' data-doi='10.3389/fimmu.2021.815121'>
         </div>
        </div>
