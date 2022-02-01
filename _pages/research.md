@@ -1,10 +1,9 @@
 ---
-layout: page
+layout: research
 title: Research
 permalink: /research/
 ---
 
-![](https://www.frontiersin.org/files/Articles/815121/fimmu-12-815121-HTML-r1/image_m/fimmu-12-815121-g001.jpg)
 #### [Genome-Wide Association Study of Ustekinumab Response in Psoriasis](https://www.frontiersin.org/articles/10.3389/fimmu.2021.815121/full)
 
 2022 &#124; *Frontiers in Immunology* &#124; **Connell W.T.**, Hong J., Liao, W.
