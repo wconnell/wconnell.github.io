@@ -44,7 +44,7 @@ Selecting drugs most effective against a tumor’s specific transcriptional sign
         <div class='altmetric-embed' data-link-target='_blank' data-badge-type='donut' data-doi='10.1101/2021.03.15.435529'>
         </div>
     </div>
-    <img src="../images/research_figs/film.png">
+    <img src="../images/research_figs/film-fig2.png">
 </div>
 
 ---
