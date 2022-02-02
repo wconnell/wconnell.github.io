@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a Pharmaceutical Sciences and Pharmacogenomics doctoral student in the [Keiser Lab](https://www.keiserlab.org/) at UCSF. I have an undergraduate research background in gene therapy for blood disease, and I am currently interested in applying computational methods to small molecule experimental interrogations. Please feel free to reach out.
+# :desktop_computer: :dna:
+I am a Pharmaceutical Sciences and Pharmacogenomics doctoral student in the [Keiser Lab](https://www.keiserlab.org/) at UCSF. I am interested in **phenotype prediction**: disease risk modeling, therapeutic response prediction. 
 
 My CV is available [here](../docs/cv.pdf).
