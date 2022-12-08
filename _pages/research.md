@@ -4,6 +4,21 @@ title: Research
 permalink: /research/
 ---
 
+#### A single-cell gene expression language model
+
+2022 &#124; *Learning Meaningful Representations of Life, NeurIPS* &#124; **Connell W.T.**, Khan U., Keiser M.J. &#124; [Article](https://arxiv.org/abs/2210.14330){:target="_blank"}
+
+Given the difficulty of physically mapping mammalian gene circuitry, we require new computational methods to learn gene regulatory rules. Our model, Exceiver, is trained across a diversity of cell types using a self-supervised task formulated for discrete count data, accounting for feature sparsity. Our work provides a framework to model gene regulation on a single-cell level and transfer knowledge to downstream tasks.
+<div class="am-container">
+    <div class="am-tag">
+        <div class='altmetric-embed' data-link-target='_blank' data-badge-type='donut' data-doi='10.48550/arXiv.2210.14330'>
+        </div>
+    </div>
+    <img src="../images/research_figs/exceiver-arch.png">
+</div>
+
+---
+
 #### Genome-Wide Association Study of Ustekinumab Response in Psoriasis
 
 2022 &#124; *Frontiers in Immunology* &#124; **Connell W.T.**, Hong J., Liao W. &#124; [Article](https://www.frontiersin.org/articles/10.3389/fimmu.2021.815121/full){:target="_blank"}
@@ -36,7 +51,7 @@ Artificial Intelligence (AI) has the power to improve our lives through a wide v
 
 #### Predicting Cellular Drug Sensitivity using Conditional Modulation of Gene Expression
 
-2020 &#124; *Learning Meaningful Representations of Life (LMRL) Workshop at NeurIPS 2020* &#124; **Connell W.T.**, Keiser M.J. &#124; [Article](https://www.biorxiv.org/content/10.1101/2021.03.15.435529v1.abstract){:target="_blank"}
+2020 &#124; *Learning Meaningful Representations of Life, NeurIPS* &#124; **Connell W.T.**, Keiser M.J. &#124; [Article](https://www.biorxiv.org/content/10.1101/2021.03.15.435529v1.abstract){:target="_blank"}
 
 Selecting drugs most effective against a tumor’s specific transcriptional signature is an important challenge in precision medicine. To assess oncogenic therapy options, cancer cell lines are dosed with drugs that can differentially impact cellular viability. This ongoing work formalizes in silico cellular screening as a conditional task in precision oncology applications that can improve drug selection for cancer treatment.
 <div class="am-container">
