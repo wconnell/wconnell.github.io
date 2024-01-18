@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-I am a Pharmaceutical Sciences and Pharmacogenomics graduate student in the [Keiser Lab](https://www.keiserlab.org/) at UCSF. I am interested in **phenotype prediction**: disease risk modeling, therapeutic response prediction, etc. My CV is available [here](../docs/cv.pdf).
+I earned my PhD from the UCSF Pharmaceutical Sciences and Pharmacogenomics Department, where I was a part of the [Keiser Lab](https://www.keiserlab.org/). My research interests are at the intersection of machine learning and biology. For a detailed overview of my academic and professional journey, please refer to [my CV](../docs/cv.pdf). Feel free to reach out; I am open to academic collaboration opportunities and professional consultations.
 
-:pill:
-:desktop_computer:
-:crystal_ball:
+:pill, desktop_computer, crystal_ball:

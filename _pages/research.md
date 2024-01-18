@@ -6,6 +6,21 @@ permalink: /research/
 
 #### A single-cell gene expression language model
 
+2023 &#124; *bioarxiv* &#124; **Connell W.T.**, Garcia K., Goodarzi H., Keiser M.J. &#124; [Article](https://www.biorxiv.org/content/10.1101/2023.08.26.554851v1){:target="_blank"}
+
+Chemical probes interrogate disease mechanisms at the molecular level by linking genetic changes to observable traits. However, comprehensive chemical screens in diverse biological models are impractical. To address this challenge, we developed ChemProbe, a model that predicts cellular sensitivity to hundreds of molecular probes and drugs by learning to combine transcriptomes and chemical structures. Using ChemProbe, we inferred the chemical sensitivity of cancer cell lines and tumor samples and analyzed how the model makes predictions. ChemProbe is an interpretable in silico screening tool that allows new measurements of cellular response to diverse compounds, facilitating research into molecular mechanisms of chemical sensitivity.
+<div class="am-container">
+    <div class="am-tag">
+        <div class='altmetric-embed' data-link-target='_blank' data-badge-type='donut' data-doi='10.48550/arXiv.2210.14330'>
+        </div>
+    </div>
+    <img src="../images/research_figs/chemprobe-fig1.png">
+</div>
+
+---
+
+#### A single-cell gene expression language model
+
 2022 &#124; *Learning Meaningful Representations of Life, NeurIPS* &#124; **Connell W.T.**, Khan U., Keiser M.J. &#124; [Article](https://arxiv.org/abs/2210.14330){:target="_blank"}
 
 Given the difficulty of physically mapping mammalian gene circuitry, we require new computational methods to learn gene regulatory rules. Our model, Exceiver, is trained across a diversity of cell types using a self-supervised task formulated for discrete count data, accounting for feature sparsity. Our work provides a framework to model gene regulation on a single-cell level and transfer knowledge to downstream tasks.
