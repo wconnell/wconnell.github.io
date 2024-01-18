@@ -44,12 +44,12 @@ disqus:
 google_analytics: 
 
 # For newer "GA4" analytics, use the following instead of the "UA" entry above
-#google_analytics_ga4: G-GABC1DEFG
+google_analytics_ga4: G-7KK7GX8LMT
 
 # Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)
 # Used for Sitemap.xml and your RSS feed
-url: http://wconnell.com/
-enforce_ssl: https://wconnell.com/
+url: http://wconnell.github.io/
+enforce_ssl: https://wconnell.github.io/
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
