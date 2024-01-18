@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-#### A single-cell gene expression language model
+#### Learning chemical sensitivity reveals mechanisms of cellular response
 
 2023 &#124; *bioarxiv* &#124; **Connell W.T.**, Garcia K., Goodarzi H., Keiser M.J. &#124; [Article](https://www.biorxiv.org/content/10.1101/2023.08.26.554851v1){:target="_blank"}
 
