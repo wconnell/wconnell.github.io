@@ -11,7 +11,7 @@ permalink: /research/
 The challenge of systematically modifying and optimizing regulatory elements for precise gene expression control is central to modern genomics and synthetic biology. We leverage diffusion models to design context-specific DNA regulatory sequences, which hold significant potential toward enabling novel therapeutic applications requiring precise modulation of gene expression. Our framework uses a cell type-specific diffusion model to generate synthetic 200 bp regulatory elements based on chromatin accessibility across different cell types.
 <div class="am-container">
     <div class="am-tag">
-        <div class='altmetric-embed' data-link-target='_blank' data-badge-type='donut' data-doi='10.48550/arXiv.2210.14330'>
+        <div class='altmetric-embed' data-link-target='_blank' data-badge-type='donut' data-doi='10.1101/2024.02.01.578352'>
         </div>
     </div>
     <img src="../images/research_figs/dna-diffusion.png">
@@ -26,7 +26,7 @@ The challenge of systematically modifying and optimizing regulatory elements for
 Chemical probes interrogate disease mechanisms at the molecular level by linking genetic changes to observable traits. However, comprehensive chemical screens in diverse biological models are impractical. To address this challenge, we developed ChemProbe, a model that predicts cellular sensitivity to hundreds of molecular probes and drugs by learning to combine transcriptomes and chemical structures. Using ChemProbe, we inferred the chemical sensitivity of cancer cell lines and tumor samples and analyzed how the model makes predictions. ChemProbe is an interpretable in silico screening tool that allows new measurements of cellular response to diverse compounds, facilitating research into molecular mechanisms of chemical sensitivity.
 <div class="am-container">
     <div class="am-tag">
-        <div class='altmetric-embed' data-link-target='_blank' data-badge-type='donut' data-doi='10.48550/arXiv.2210.14330'>
+        <div class='altmetric-embed' data-link-target='_blank' data-badge-type='donut' data-doi='10.1101/2023.08.26.554851'>
         </div>
     </div>
     <img src="../images/research_figs/chemprobe-fig1.png">
