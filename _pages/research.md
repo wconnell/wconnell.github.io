@@ -4,9 +4,24 @@ title: Research
 permalink: /research/
 ---
 
+#### DNA-Diffusion: Leveraging Generative Models for Controlling Chromatin Accessibility and Gene Expression via Synthetic Regulatory Elements
+
+2023 &#124; *biorxiv* &#124; DaSilva L.F. & Senan S. *et al.* &#124; [Article](https://www.biorxiv.org/content/10.1101/2024.02.01.578352v1){:target="_blank"}
+
+The challenge of systematically modifying and optimizing regulatory elements for precise gene expression control is central to modern genomics and synthetic biology. We leverage diffusion models to design context-specific DNA regulatory sequences, which hold significant potential toward enabling novel therapeutic applications requiring precise modulation of gene expression. Our framework uses a cell type-specific diffusion model to generate synthetic 200 bp regulatory elements based on chromatin accessibility across different cell types.
+<div class="am-container">
+    <div class="am-tag">
+        <div class='altmetric-embed' data-link-target='_blank' data-badge-type='donut' data-doi='10.48550/arXiv.2210.14330'>
+        </div>
+    </div>
+    <img src="../images/research_figs/dna-diffusion.png">
+</div>
+
+---
+
 #### Learning chemical sensitivity reveals mechanisms of cellular response
 
-2023 &#124; *bioarxiv* &#124; **Connell W.T.**, Garcia K., Goodarzi H., Keiser M.J. &#124; [Article](https://www.biorxiv.org/content/10.1101/2023.08.26.554851v1){:target="_blank"}
+2023 &#124; *biorxiv* &#124; **Connell W.T.**, Garcia K., Goodarzi H., Keiser M.J. &#124; [Article](https://www.biorxiv.org/content/10.1101/2023.08.26.554851v1){:target="_blank"}
 
 Chemical probes interrogate disease mechanisms at the molecular level by linking genetic changes to observable traits. However, comprehensive chemical screens in diverse biological models are impractical. To address this challenge, we developed ChemProbe, a model that predicts cellular sensitivity to hundreds of molecular probes and drugs by learning to combine transcriptomes and chemical structures. Using ChemProbe, we inferred the chemical sensitivity of cancer cell lines and tumor samples and analyzed how the model makes predictions. ChemProbe is an interpretable in silico screening tool that allows new measurements of cellular response to diverse compounds, facilitating research into molecular mechanisms of chemical sensitivity.
 <div class="am-container">
@@ -51,7 +66,7 @@ Heterogeneous genetic and environmental factors contribute to the psoriasis phen
 
 #### Nurturing diversity and inclusion in AI in Biomedicine through a virtual summer program for high school students
 
-2022 &#124; *PLOS Computational Biology* &#124; Oskotsky T., Bajaj R., Burchard J., Cavazos T., Chen I., **Connell W.T.**, Eaneff S., Grant T., Kanungo I., Lindquist K., Meyers-Turnbull D., Naing Z.Z.C., Tang A., Vora B., Wang J., Karim I., Swadling C., Yang J., AI4ALL Student Cohort 2020, Lindstaet B., Sirota M. &#124; [Article](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009719){:target="_blank"}
+2022 &#124; *PLOS Computational Biology* &#124; Oskotsky T. *et al* &#124; [Article](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009719){:target="_blank"}
 
 Artificial Intelligence (AI) has the power to improve our lives through a wide variety of applications, many of which fall into the healthcare space; however, a lack of diversity is limiting how broadly AI can impact people. This work can guide AI training programs aspiring to engage and educate students entirely online, and motivate people in AI to strive towards increasing diversity and inclusion in this field.
 <div class="am-container">
