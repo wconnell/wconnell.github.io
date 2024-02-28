@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "The Evolution of ML in Early-Stage Drug Development"
-categories: [ml,drug discovery,venture]
+title:  "ML for target identification"
+categories: [ml,drug discovery]
 --- 
 
 ![](../images/ml-target-id_figs/ml-target-id-substack.jpg)
