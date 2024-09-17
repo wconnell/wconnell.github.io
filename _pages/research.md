@@ -21,7 +21,7 @@ The challenge of systematically modifying and optimizing regulatory elements for
 
 #### Learning chemical sensitivity reveals mechanisms of cellular response
 
-2023 &#124; *biorxiv* &#124; **Connell W.T.**, Garcia K., Goodarzi H., Keiser M.J. &#124; [Article](https://www.biorxiv.org/content/10.1101/2023.08.26.554851v1){:target="_blank"}
+2024 &#124; *Commun. Biol.* &#124; **Connell W.T.**, Garcia K., Goodarzi H., Keiser M.J. &#124; [Article](https://www.nature.com/articles/s42003-024-06865-4){:target="_blank"}
 
 Chemical probes interrogate disease mechanisms at the molecular level by linking genetic changes to observable traits. However, comprehensive chemical screens in diverse biological models are impractical. To address this challenge, we developed ChemProbe, a model that predicts cellular sensitivity to hundreds of molecular probes and drugs by learning to combine transcriptomes and chemical structures. Using ChemProbe, we inferred the chemical sensitivity of cancer cell lines and tumor samples and analyzed how the model makes predictions. ChemProbe is an interpretable in silico screening tool that allows new measurements of cellular response to diverse compounds, facilitating research into molecular mechanisms of chemical sensitivity.
 <div class="am-container">
