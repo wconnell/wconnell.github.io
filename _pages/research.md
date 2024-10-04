@@ -11,12 +11,11 @@ permalink: /research/
 In silico modeling of transcriptional responses to perturbations is crucial for advancing our understanding of cellular processes and disease mechanisms. We present PertEval-scFM, a standardized framework designed to evaluate models for perturbation effect prediction. We apply PertEval-scFM to benchmark zero-shot single-cell foundation model (scFM) embeddings against simpler baseline models to assess whether these contextualized representations enhance perturbation effect prediction.
 <div class="am-container">
     <div class="am-tag">
-        <div class='altmetric-embed' data-link-target='_blank' data-badge-type='donut' data-doi='10.1101/2024.02.01.578352'>
+        <div class='altmetric-embed' data-link-target='_blank' data-badge-type='donut' data-doi='10.1101/2024.10.02.616248'>
         </div>
     </div>
     <img src="../images/research_figs/perteval-scfm.png">
 </div>
-<br>
 
 ---
 
