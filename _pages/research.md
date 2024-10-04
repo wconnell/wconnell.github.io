@@ -4,6 +4,21 @@ title: Research
 permalink: /research/
 ---
 
+#### PertEval-scFM: Benchmarking Single-Cell Foundation Models for Perturbation Effect Prediction
+
+2024 &#124; *biorxiv* &#124; Wenteler A. *et al.* &#124; [Article](https://www.biorxiv.org/content/10.1101/2024.10.02.616248v1){:target="_blank"}
+
+In silico modeling of transcriptional responses to perturbations is crucial for advancing our understanding of cellular processes and disease mechanisms. We present PertEval-scFM, a standardized framework designed to evaluate models for perturbation effect prediction. We apply PertEval-scFM to benchmark zero-shot single-cell foundation model (scFM) embeddings against simpler baseline models to assess whether these contextualized representations enhance perturbation effect prediction.
+<div class="am-container">
+    <div class="am-tag">
+        <div class='altmetric-embed' data-link-target='_blank' data-badge-type='donut' data-doi='10.1101/2024.02.01.578352'>
+        </div>
+    </div>
+    <img src="../images/research_figs/perteval-scfm.png">
+</div>
+
+---
+
 #### DNA-Diffusion: Leveraging Generative Models for Controlling Chromatin Accessibility and Gene Expression via Synthetic Regulatory Elements
 
 2023 &#124; *biorxiv* &#124; DaSilva L.F. & Senan S. *et al.* &#124; [Article](https://www.biorxiv.org/content/10.1101/2024.02.01.578352v1){:target="_blank"}
