@@ -16,6 +16,7 @@ In silico modeling of transcriptional responses to perturbations is crucial for 
     </div>
     <img src="../images/research_figs/perteval-scfm.png">
 </div>
+<br>
 
 ---
 
