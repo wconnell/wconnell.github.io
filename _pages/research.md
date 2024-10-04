@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-#### PertEval-scFM: Benchmarking Single-Cell Foundation Models for Perturbation Effect Prediction
+### PertEval-scFM: Benchmarking Single-Cell Foundation Models for Perturbation Effect Prediction
 
 2024 &#124; *biorxiv* &#124; Wenteler A. *et al.* &#124; [Article](https://www.biorxiv.org/content/10.1101/2024.10.02.616248v1){:target="_blank"}
 
@@ -20,7 +20,7 @@ In silico modeling of transcriptional responses to perturbations is crucial for 
 
 ---
 
-#### DNA-Diffusion: Leveraging Generative Models for Controlling Chromatin Accessibility and Gene Expression via Synthetic Regulatory Elements
+### DNA-Diffusion: Leveraging Generative Models for Controlling Chromatin Accessibility and Gene Expression via Synthetic Regulatory Elements
 
 2023 &#124; *biorxiv* &#124; DaSilva L.F. & Senan S. *et al.* &#124; [Article](https://www.biorxiv.org/content/10.1101/2024.02.01.578352v1){:target="_blank"}
 
@@ -35,7 +35,7 @@ The challenge of systematically modifying and optimizing regulatory elements for
 
 ---
 
-#### Learning chemical sensitivity reveals mechanisms of cellular response
+### Learning chemical sensitivity reveals mechanisms of cellular response
 
 2024 &#124; *Commun. Biol.* &#124; **Connell W.T.**, Garcia K., Goodarzi H., Keiser M.J. &#124; [Article](https://www.nature.com/articles/s42003-024-06865-4){:target="_blank"}
 
@@ -50,7 +50,7 @@ Chemical probes interrogate disease mechanisms at the molecular level by linking
 
 ---
 
-#### A single-cell gene expression language model
+### A single-cell gene expression language model
 
 2022 &#124; *Learning Meaningful Representations of Life, NeurIPS* &#124; **Connell W.T.**, Khan U., Keiser M.J. &#124; [Article](https://arxiv.org/abs/2210.14330){:target="_blank"}
 
@@ -65,7 +65,7 @@ Given the difficulty of physically mapping mammalian gene circuitry, we require 
 
 ---
 
-#### Genome-Wide Association Study of Ustekinumab Response in Psoriasis
+### Genome-Wide Association Study of Ustekinumab Response in Psoriasis
 
 2022 &#124; *Frontiers in Immunology* &#124; **Connell W.T.**, Hong J., Liao W. &#124; [Article](https://www.frontiersin.org/articles/10.3389/fimmu.2021.815121/full){:target="_blank"}
 
@@ -80,7 +80,7 @@ Heterogeneous genetic and environmental factors contribute to the psoriasis phen
 
 ---
 
-#### Nurturing diversity and inclusion in AI in Biomedicine through a virtual summer program for high school students
+### Nurturing diversity and inclusion in AI in Biomedicine through a virtual summer program for high school students
 
 2022 &#124; *PLOS Computational Biology* &#124; Oskotsky T. *et al* &#124; [Article](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009719){:target="_blank"}
 
@@ -95,7 +95,7 @@ Artificial Intelligence (AI) has the power to improve our lives through a wide v
 
 ---
 
-#### Predicting Cellular Drug Sensitivity using Conditional Modulation of Gene Expression
+### Predicting Cellular Drug Sensitivity using Conditional Modulation of Gene Expression
 
 2020 &#124; *Learning Meaningful Representations of Life, NeurIPS* &#124; **Connell W.T.**, Keiser M.J. &#124; [Article](https://www.biorxiv.org/content/10.1101/2021.03.15.435529v1.abstract){:target="_blank"}
 
@@ -110,7 +110,7 @@ Selecting drugs most effective against a tumor’s specific transcriptional sign
 
 ---
 
-#### Helical antimicrobial peptides assemble into protofibril scaffolds that present ordered dsDNA to TLR9
+### Helical antimicrobial peptides assemble into protofibril scaffolds that present ordered dsDNA to TLR9
 
 2019 &#124; *Nature Communications* &#124; Lee E., Zhang C., Di Domizio J., Jin F., **Connell W.**, Hung M., Malkoff N., Veksler V., Gilliet M., Ren P., Wong G.C.L. &#124; [Article](https://www.nature.com/articles/s41467-019-08868-w){:target="_blank"}
 
@@ -125,7 +125,7 @@ Amphiphilicity in ɑ-helical antimicrobial peptides (AMPs) is recognized as a si
 
 ---
 
-#### A Single-Cell Transcriptomic Atlas of Human Neocortical Development during Mid-gestation
+### A Single-Cell Transcriptomic Atlas of Human Neocortical Development during Mid-gestation
 
 2019 &#124; *Neuron* &#124; Polioudakis D., Torre-Ubieta L., Langerman J., Elkins A.G., Shi X., Stein J.L., Vuong C.K., Nichterwitz S., Gevorgian M., Opland C.K., Lu D., **Connell W.**, Ruzzo E.K., Lowe J.K., Hadzic T., Hinz F.I., Sabri S., Lowry W.E., Gerstein M.B., Plath K., Geschwind D.H. &#124; [Article](https://www.cell.com/neuron/fulltext/S0896-6273(19)30561-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627319305616%3Fshowall%3Dtrue){:target="_blank"}
 
