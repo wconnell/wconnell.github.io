@@ -1,21 +1,8 @@
 {% raw %}
 <div class="plot-container">
-    <div id="myDiv"><!-- Plotly chart will be drawn inside this DIV --></div>
-    
-    <!-- Load Plotly.js -->
-    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-    
-    <script>
-        var trace1 = {
-            x: [1, 2, 3, 4],
-            y: [10, 15, 13, 17],
-            type: 'scatter'
-        };
-
-        var data = [trace1];
-
-        Plotly.newPlot('myDiv', data);
-    </script>
+    <div id="myDiv">
+        This is a test div with some {curly} braces and {{ double }} braces
+    </div>
 </div>
 
 <style>
