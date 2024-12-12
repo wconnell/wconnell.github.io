@@ -1,16 +1,21 @@
 {% raw %}
 <div class="plot-container">
-    <div>
-        <script type="text/javascript">
-            // Just a basic Plotly test
-            var data = [{
-                x: [1, 2, 3],
-                y: [2, 6, 3],
-                type: 'scatter'
-            }];
-            Plotly.newPlot('myDiv', data);
-        </script>
-    </div>
+    <div id="myDiv"><!-- Plotly chart will be drawn inside this DIV --></div>
+    
+    <!-- Load Plotly.js -->
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    
+    <script>
+        var trace1 = {
+            x: [1, 2, 3, 4],
+            y: [10, 15, 13, 17],
+            type: 'scatter'
+        };
+
+        var data = [trace1];
+
+        Plotly.newPlot('myDiv', data);
+    </script>
 </div>
 
 <style>
