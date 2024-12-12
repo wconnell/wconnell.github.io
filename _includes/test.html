@@ -1,4 +1,22 @@
-<div style="border: 1px solid black; padding: 20px; margin: 20px;">
-    <h2>Test Include</h2>
-    <p>This is a simple test of Jekyll includes</p>
+{% raw %}
+<div class="plot-container">
+    <div>
+        <script type="text/javascript">
+            // Just a basic Plotly test
+            var data = [{
+                x: [1, 2, 3],
+                y: [2, 6, 3],
+                type: 'scatter'
+            }];
+            Plotly.newPlot('myDiv', data);
+        </script>
+    </div>
 </div>
+
+<style>
+    .plot-container {
+        margin-bottom: 40px;
+        min-height: 800px;
+    }
+</style>
+{% endraw %}
